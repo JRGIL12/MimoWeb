@@ -1,0 +1,10 @@
+<html>
+  <body>
+    <h1> Estructuras de texto con etiquetas</h1>
+    <p>parafos<br>
+    salto de linea<br>
+    <em>Salto de linea  con resaltado</em><br>
+     salto de linea en <strong>negrita</strong>
+    </p>
+  </body>
+</html>
